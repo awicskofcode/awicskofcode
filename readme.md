@@ -25,8 +25,7 @@ Hello! I'm **Awicskofcode**, a passionate developer who loves coding, learning n
 
 ## 📫 Connect With Me
 - GitHub: [awicskofcode](https://github.com/awicskofcode)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) *(replace with actual handle)*
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname) *(replace with actual link)*
+- LinkedIn: [Your Name](https://linkedin.com/in/awicskofcode) *(replace with actual link)*
 
 ## 🎯 Fun Fact
 I love solving coding challenges and contributing to open-source projects!
